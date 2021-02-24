@@ -7,8 +7,7 @@ Feel free to create a pull requests to improve the game :)
 
 **On emulator**
 
-<img src="https://github.com/Fewnity/Flappy-Bird-Nintendo-DS/blob/main/GitImages/Flap2.PNG" width="500">
-<img src="https://github.com/Fewnity/Flappy-Bird-Nintendo-DS/blob/main/GitImages/FlapGif.gif" width="500">
+<img src="https://github.com/Fewnity/Flappy-Bird-Nintendo-DS/blob/main/GitImages/Flap2.PNG" width="350"><img src="https://github.com/Fewnity/Flappy-Bird-Nintendo-DS/blob/main/GitImages/FlapGif.gif" width="470">
 
 **On a real Nintendo DS**
 
