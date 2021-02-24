@@ -19,7 +19,7 @@ Download Flappy_Bird_DS.nds [here](https://github.com/Fewnity/Flappy-Bird-Ninten
 
 Run it on emulator like [melonDS](http://melonds.kuribo64.net/downloads.php).
 
-**For a real Nintendo DS**, you will need a R4 linker, may no work on other linker like M3DS REAL. (need nitrofs support)
+**For a real Nintendo DS**, you will need a R4 linker, may no work on other linker like M3DS REAL. (Linker needs nitrofs support)
 
 Put the game on a SD card and run the game.
 
