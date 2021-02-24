@@ -7,7 +7,12 @@ Feel free to create a pull requests to improve the game :)
 
 **Screenshots from emulator**
 
+<img src="https://github.com/Fewnity/Flappy-Bird-Nintendo-DS/blob/main/GitImages/Flap1.PNG" width="500">
+<img src="https://github.com/Fewnity/Flappy-Bird-Nintendo-DS/blob/main/GitImages/Flap2.PNG" width="500">
+
 **On a real Nintendo DS**
+
+<img src="https://github.com/Fewnity/Flappy-Bird-Nintendo-DS/blob/main/GitImages/FlapReal.jpg" width="500">
 
 # Setup for programming
 Download an IDE software like [Visual Studio Code](https://code.visualstudio.com/).
