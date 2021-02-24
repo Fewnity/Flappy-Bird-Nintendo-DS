@@ -5,14 +5,24 @@ Feel free to create a pull requests to improve the game :)
 
 ## Screenshots
 
-**Screenshots from emulator**
+**On emulator**
 
-<img src="https://github.com/Fewnity/Flappy-Bird-Nintendo-DS/blob/main/GitImages/Flap1.PNG" width="500">
 <img src="https://github.com/Fewnity/Flappy-Bird-Nintendo-DS/blob/main/GitImages/Flap2.PNG" width="500">
+<img src="https://github.com/Fewnity/Flappy-Bird-Nintendo-DS/blob/main/GitImages/FlapGif.gif" width="500">
 
 **On a real Nintendo DS**
 
 <img src="https://github.com/Fewnity/Flappy-Bird-Nintendo-DS/blob/main/GitImages/FlapReal.jpg" width="500">
+
+**How to run the game**
+
+Download Flappy_Bird_DS.nds [here](https://github.com/Fewnity/Flappy-Bird-Nintendo-DS/raw/main/Flappy_Bird_DS.nds).
+
+Run it on emulator like [melonDS](http://melonds.kuribo64.net/downloads.php).
+
+**For a real Nintendo DS**, you will need a R4 linker, may no work on other linker like M3DS REAL. (need nitrofs support)
+
+Put the game on a SD card and run the game.
 
 # Setup for programming
 Download an IDE software like [Visual Studio Code](https://code.visualstudio.com/).
