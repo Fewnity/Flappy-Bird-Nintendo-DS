@@ -3,7 +3,7 @@ I recreated the original Flappy Bird game for the Nintendo DS with libnds and [N
 You can download and modify the project to learn how to create a 2D Nintendo DS game.
 Feel free to create a pull requests to improve the game :)
 
-[Video of the game here!]https://www.youtube.com/watch?v=J78rlw65wTs)
+[Video of the game here!](https://www.youtube.com/watch?v=J78rlw65wTs)
 
 ## Screenshots
 
